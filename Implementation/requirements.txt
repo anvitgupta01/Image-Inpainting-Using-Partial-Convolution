@@ -1,0 +1,7 @@
+oyaml
+comet-ml
+pillow
+numpy
+torch
+torchvision
+opendatasets
